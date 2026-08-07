@@ -1,0 +1,34 @@
+- model: Meat
+  rows:
+    - id: 1
+      name: Ribeye Steak
+      cut: ribeye
+      species: beef
+      weight_g: 350
+      price_per_kg: 42.5
+      in_stock: true
+      image_path: 1.svg
+    - id: 2
+      name: Pork Belly
+      cut: belly
+      species: pork
+      weight_g: 1000
+      price_per_kg: 18.9
+      in_stock: true
+      image_path: 2.svg
+    - id: 3
+      name: Chicken Thigh
+      cut: thigh
+      species: chicken
+      weight_g: 250
+      price_per_kg: 9.75
+      in_stock: true
+      image_path: 3.svg
+    - id: 4
+      name: Lamb Shank
+      cut: shank
+      species: lamb
+      weight_g: 450
+      price_per_kg: 27.0
+      in_stock: false
+      image_path: 4.svg

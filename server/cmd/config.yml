@@ -1,0 +1,12 @@
+server:
+  host: localhost
+  port: 8080
+  debug: true
+
+database:
+  url: localhost
+  port: 5433
+  username: butcher
+  password: butcher
+  name: butcher
+
