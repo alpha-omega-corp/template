@@ -5,8 +5,8 @@ server:
 
 database:
   url: localhost
-  port: 5433
-  username: butcher
-  password: butcher
-  name: butcher
+  port: 5432
+  username: template
+  password: template
+  name: template
 

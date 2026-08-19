@@ -1,13 +1,11 @@
-module butcher
+module template
 
 go 1.25.0
 
 require (
-	github.com/alpha-omega-corp/_core v0.0.0-20260702115520-fc7a52cc2b7c
+	github.com/alpha-omega-corp/_core v0.0.0-20260817204856-ef0b58066e57
 	github.com/uptrace/bun v1.2.18
 )
-
-replace github.com/alpha-omega-corp/_core => ../../_core
 
 require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect

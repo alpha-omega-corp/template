@@ -2,8 +2,7 @@ package handlers
 
 import (
 	"context"
-
-	"butcher/pkg/models"
+	"template/pkg/models"
 
 	"github.com/alpha-omega-corp/_core/app"
 )

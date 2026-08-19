@@ -1,10 +1,10 @@
 package main
 
 import (
-	"butcher/pkg/controllers"
-	"butcher/pkg/models"
 	"embed"
 	"net/http"
+	"template/pkg/controllers"
+	"template/pkg/models"
 
 	"github.com/alpha-omega-corp/_core/app"
 	"github.com/uptrace/bunrouter"
@@ -16,7 +16,7 @@ var (
 )
 
 func main() {
-	app.NewApp(efs).Bootstrap(func(router *bunrouter.Router, deps app.Deps) {
+	app.New(efs).Bootstrap(func(router *bunrouter.Router, deps app.Deps) {
 		app.RegisterControllers(deps, controllers.Meat)
 
 		router.GET("/meat", controllers.Meat.GetAll())

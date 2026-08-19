@@ -1,3 +1,6 @@
+github.com/alpha-omega-corp/_core v0.0.0-20260702115520-fc7a52cc2b7c/go.mod h1:mNHwFKND3H/ZIbj9tqwAV7hh8X1dMaDTaZFWdadQ7hQ=
+github.com/alpha-omega-corp/_core v0.0.0-20260817204856-ef0b58066e57 h1:qHzLs4YRuONSVzU/vfAbFoT8x3FzLXP/eu7m8OzIAYo=
+github.com/alpha-omega-corp/_core v0.0.0-20260817204856-ef0b58066e57/go.mod h1:wIGSIa3bKWU0QDlGyAYMntmQtapNMCSaQAIV5I7QjOE=
 github.com/cespare/xxhash/v2 v2.3.0 h1:UL815xU9SqsFlibzuggzjXhog7bL6oX9BbNZnL2UFvs=
 github.com/cespare/xxhash/v2 v2.3.0/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=

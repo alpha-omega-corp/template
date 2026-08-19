@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"butcher/pkg/handlers"
-	"butcher/pkg/models"
+	"template/pkg/handlers"
+	"template/pkg/models"
 
 	"github.com/alpha-omega-corp/_core/app"
 	"github.com/alpha-omega-corp/_core/helpers"
